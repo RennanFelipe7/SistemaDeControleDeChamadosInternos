@@ -234,7 +234,7 @@ cd test
 npm install
 npx cypress open
 ```
-Com o cypress instalado, irá abrir um novo aplicativo na barra de tarefa referente ao cypress, então clique em "Continuar", depois "E2E Testing", escolha o browser de sua preferência e clique em "Start E2E Testing in ...", por último escolha a spec "AllSpecs" que contém todos os testes automatizados.  
+Com o cypress instalado, irá abrir um novo aplicativo na barra de tarefa referente ao cypress, então clique em "E2E Testing", escolha o browser de sua preferência e clique em "Start E2E Testing in ...", por último escolha a spec "AllSpecs" que contém todos os testes automatizados.  
 
 ## Decisões técnicas
 
